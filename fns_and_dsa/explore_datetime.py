@@ -1,5 +1,3 @@
-# File: explore_datetime.py
-# Description: Script to explore Python's datetime module.
 
 from datetime import datetime, timedelta
 
