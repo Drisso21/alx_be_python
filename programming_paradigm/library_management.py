@@ -8,7 +8,7 @@ class Book:
         return not self.__is_checked_out
     def checked_out(self):
         self.__is_checked_out = True
-    def checked_in(self):
+    def return_book(self):
         self.__is_checked_out = False
 
 class Library:
